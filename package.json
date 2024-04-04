@@ -1,27 +1,36 @@
 {
-  "name": "vesper",
-  "displayName": "Vesper",
-  "publisher": "raunofreiberg",
-  "description": "Peppermint and orange flavored dark theme for VSCode.",
-  "license": "MIT",
+  "name": "vespertino",
+  "displayName": "vespertino",
+  "author": "raunofreiberg",
+  "publisher": "cstrlcs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raunofreiberg/vesper"
+    "url": "https://github.com/cstrlcs/vespertino"
   },
-  "icon": "icon.png",
-  "version": "0.0.39",
+  "description": "Based on the Vesper Theme from raunofreiberg, with some changes.",
+  "license": "MIT",
+  "version": "1.0.0",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "vscode",
+    "vscode-theme",
+    "vesper",
+    "vespertino"
+  ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
-        "label": "Vesper",
+        "label": "Vespertino",
         "uiTheme": "vs-dark",
-        "path": "./themes/Vesper-dark-color-theme.json"
+        "path": "./themes/Vespertino-color-theme.json"
       }
     ]
   }
