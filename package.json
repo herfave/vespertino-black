@@ -9,7 +9,7 @@
   },
   "description": "Based on the Vesper Theme from raunofreiberg, with some changes for OLED devices.",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.87.0"
   },
