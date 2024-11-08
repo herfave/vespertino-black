@@ -18,18 +18,8 @@ I've forked Vespertino to use black backgrounds to make better use of my OLED mo
 
 ## Fonts (Optional)
 
-The fonts Lucas used in the preview are [Fira Code](https://github.com/tonsky/FiraCode) and [Victor Mono](https://rubjo.github.io/victor-mono/).
+The font I used in the preview is [mononoki](https://madmalik.github.io/mononoki/).
 
-Sadly, VSCode doesn't support multiple fonts right now. You can use `Victor Mono` alone for a similar effect.
-
-If you really want to mix fonts, you can use [this extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) to inject this line of CSS into your VSCode:
-
-```css
-/* Changes the font only for the italic part of the code. */
-.mtki {font-family: 'Victor Mono';}
-```
-
-> Beware that adding custom CSS is a hack and it is optional. Use it at your own risk.~~
 
 ## Credits
 
