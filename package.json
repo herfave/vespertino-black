@@ -1,13 +1,13 @@
 {
-  "name": "vespertino",
-  "displayName": "vespertino",
+  "name": "vespertino-black",
+  "displayName": "vespertino black",
   "author": "raunofreiberg",
   "publisher": "cstrlcs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cstrlcs/vespertino"
+    "url": "https://github.com/herfave/vespertino-black"
   },
-  "description": "Based on the Vesper Theme from raunofreiberg, with some changes.",
+  "description": "Based on the Vesper Theme from raunofreiberg, with some changes for OLED devices.",
   "license": "MIT",
   "version": "1.0.0",
   "engines": {
