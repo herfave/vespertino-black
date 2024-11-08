@@ -2,7 +2,7 @@
 	"name": "Vesper",
 	"colors": {
 		// Editor
-		"editor.background": "#101010",
+		"editor.background": "#000000",
 		"editor.foreground": "#fafafa",
 		"editor.selectionBackground": "#FFFFFF25",
 		"editor.selectionHighlightBackground": "#FFFFFF25",
