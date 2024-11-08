@@ -9,7 +9,7 @@
   },
   "description": "Based on the Vesper Theme from raunofreiberg, with some changes for OLED devices.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -28,9 +28,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vespertino",
+        "label": "Vespertino Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Vespertino-color-theme.json"
+        "path": "./themes/Vespertino-Black-color-theme.json"
       }
     ]
   }
