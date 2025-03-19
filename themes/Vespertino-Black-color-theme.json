@@ -121,9 +121,7 @@
 				"storage.modifier",
 				"entity.name.module.js",
 				"variable.import.parameter.js",
-				"variable.other.class.js",
-				"keyword.operator.wordlike.luau",
-				"keyword.operator.logical.luau",
+				"variable.other.class.js"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -219,7 +217,9 @@
 				"punctuation.terminator",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"keyword.operator.wordlike.luau",
+				"keyword.operator.logical.luau"
 			],
 			"settings": {
 				"fontStyle": "italic",
